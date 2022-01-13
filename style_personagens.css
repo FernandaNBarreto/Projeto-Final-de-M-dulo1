@@ -71,3 +71,19 @@ body {
     background: black;
     color: white;
 }
+
+.button {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: yellow;
+}
+
+a {
+    text-decoration: none;
+}
