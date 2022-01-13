@@ -56,10 +56,14 @@ body {
     margin: 0;
     padding: 10px 11px;
     box-sizing: border-box;
-    border: 2px solid yellow;
+    border: 2px solid red;
     border-radius: 10px;
     font-family: 'Courier New', Courier, monospace;
     background-color: whitesmoke;
+}
+
+.listapersonagens li:hover {
+    transform: scale(1.1);
 }
 
 .listapersonagens h3 {

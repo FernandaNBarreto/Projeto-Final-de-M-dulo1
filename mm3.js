@@ -1,5 +1,5 @@
 function mmNivel3() {
-    var pergunta = prompt ("1 - Primeira opção \n 2. Segunda opção")
+    var pergunta = prompt ("1 - Força de Ares (deus da gerra) \n 2. Seu super Laço")
     while (pergunta != 1 || pergunta != 2) {
     
 if (pergunta == 1) {
