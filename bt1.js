@@ -13,6 +13,7 @@ else if (pergunta == 2) {
 } 
 else {
     alert("Tente novamente, escolha uma das opções.")
+    pergunta = prompt ("1 - Primeira opção \n 2. Segunda opção")
 }
 }
 } 

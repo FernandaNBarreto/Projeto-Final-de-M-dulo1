@@ -16,7 +16,11 @@ body {
 }
 
 #texto1 {
-    font-size: 20px;
+    font-size: 16px;
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 
 .textoprincipal {
@@ -24,14 +28,18 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     border: 3px solid black;
     border-radius: 10px;
     padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 
 .textoprincipal > h1 {
     font-weight: bold;
     font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .listapersonagens {
@@ -50,10 +58,12 @@ body {
     box-sizing: border-box;
     border: 2px solid yellow;
     border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
 }
 
 .listapersonagens h3 {
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
     color: black;
 }
