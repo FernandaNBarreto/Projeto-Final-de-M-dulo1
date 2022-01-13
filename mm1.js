@@ -1,5 +1,5 @@
 function mmNivel1() {
-    var pergunta = prompt ("1 - primeira opção \n 2. Segunda opção")
+    var pergunta = prompt ("1 - Desviar do sistema de segurança com sua super velocidade \n 2. Entrar pela porta dos fundos onde não tem ninguém")
     while (pergunta != 1 || pergunta != 2) {
     
 if (pergunta == 1) {

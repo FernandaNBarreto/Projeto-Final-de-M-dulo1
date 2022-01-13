@@ -10,9 +10,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
+}
+
+#texto1 {
+    font-size: 20px;
 }
 
 .textoprincipal {
@@ -42,16 +46,16 @@ body {
     width: 30%;
     vertical-align:"top";
     margin: 0 1.5%;
-    padding: 30px 20px;
+    padding: 10px 11px;
     box-sizing: border-box;
-    border: 2px solid black;
+    border: 2px solid yellow;
     border-radius: 10px;
 }
 
 .listapersonagens h3 {
     font-size: 30px;
     font-weight: bold;
-    color: yellow;
+    color: black;
 }
 
 .footer {
