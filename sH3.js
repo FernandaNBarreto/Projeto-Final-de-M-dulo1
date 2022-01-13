@@ -3,7 +3,7 @@ function sHNivel3() {
     while (pergunta != 1 || pergunta != 2) {
     
 if (pergunta == 1) {
-    location.href = "sHFinal.html"
+    location.href = "sHomemFinal.html"
     break
 }
     

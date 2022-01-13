@@ -53,7 +53,7 @@ body {
     text-align: center;
     width: 30%;
     vertical-align:"top";
-    margin: 0 1.5%;
+    margin: 0;
     padding: 10px 11px;
     box-sizing: border-box;
     border: 2px solid yellow;
@@ -96,4 +96,18 @@ body {
 
 a {
     text-decoration: none;
+}
+
+p {
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+
+h1 {
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+
+#rodape {
+    background-color: black;
 }
