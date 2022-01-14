@@ -1,5 +1,5 @@
 function btNivel2() {
-    var pergunta = prompt ("1 - Primeira opção \n 2. Segunda opção")
+    var pergunta = prompt ("1 - Sua arma nova que paralisa \n 2 - Arma de fogo")
     while (pergunta != 1 || pergunta != 2) {
     
 if (pergunta == 1) {
@@ -13,7 +13,7 @@ else if (pergunta == 2) {
 } 
 else {
     alert("Tente novamente, escolha uma das opções.")
-    pergunta = prompt ("1 - Primeira opção \n 2. Segunda opção")
+    pergunta = prompt ("1 - Sua arma nova que paralisa \n 2 - Arma de fogo")
 }
 }
 } 

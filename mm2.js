@@ -1,5 +1,5 @@
 function mmNivel2() {
-    var pergunta = prompt ("1 - Usar sua super força para enfrenta-los \n 2. Tenta uma conversa amigável para apaziguar tudo")
+    var pergunta = prompt ("1 - Usar sua super força para enfrenta-los \n 2 - Tenta uma conversa amigável para apaziguar tudo")
     while (pergunta != 1 || pergunta != 2) {
     
 if (pergunta == 1) {
@@ -13,7 +13,7 @@ else if (pergunta == 2) {
 } 
 else {
     alert("Tente novamente, escolha uma das opções.")
-    pergunta = prompt ("1 - Primeira opção \n 2. Segunda opção")
+    pergunta = prompt ("1 - Usar sua super força para enfrenta-los \n 2 - Tenta uma conversa amigável para apaziguar tudo")
 }
 }
 }
